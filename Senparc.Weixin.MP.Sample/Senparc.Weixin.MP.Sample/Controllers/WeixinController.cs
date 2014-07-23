@@ -122,6 +122,7 @@ namespace Senparc.Weixin.MP.Sample.Controllers
         }
 
         /*
+         * 
          * v0.3.0之前的原始Post方法见：WeixinController_OldPost.cs
          * 
          * 注意：虽然这里提倡使用CustomerMessageHandler的方法，但是MessageHandler基类最终还是基于OldPost的判断逻辑，
